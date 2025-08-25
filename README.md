@@ -229,12 +229,9 @@ Versi yang ditingkatkan ini menunjukkan tidak hanya perbaikan teknis tetapi juga
 - **Nama**: Elsha Yuandini Dewasasmita
 - **Email**: sasmitadewa17@gmail.com
 - **GitHub**: (https://github.com/nathanaeleyd)
-- **LinkedIn**: [LinkedIn Profile]
 
 ### Link Proyek
-- **Repository**: [GitHub Repository URL]
-- **Live Demo**: [Streamlit App URL]
-- **Documentation**: [Additional Technical Documentation]
+- **Repository**: https://github.com/nathanaeleyd/liver_disease_prediction_Machine_Learning
 
 ## 🙏 Acknowledgments
 
@@ -255,7 +252,5 @@ Versi yang ditingkatkan ini menunjukkan tidak hanya perbaikan teknis tetapi juga
 - **Clinical Cases Tested**: 3+ real-world validation scenarios
 
 ---
-
-**📋 Project Status**: ✅ Production Ready | **📊 Version**: v2.0 Enhanced & Fixed | **🔄 Last Updated**: 2024
 
 *Proyek ini menunjukkan kemampuan machine learning end-to-end dari data preprocessing hingga model deployment, dengan fokus khusus pada healthcare applications dan clinical validation.*
